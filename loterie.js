@@ -23,7 +23,7 @@ document.write("<p>Les numeros gagnants du "+ tab_jour[dateActuelle.getDay()]+" 
 
 // document.write("Les numeros gagnants sont : <br><br>")
 for(index=0; index<6; index++){
-    document.write("- le <font color=#be361>" + tirage[index]+ "</font><br>");
+    document.write("          - le <font color=#be361>" + tirage[index]+ "</font><br>");
 }
 
 
